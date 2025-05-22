@@ -20,5 +20,6 @@ NVIDIA vGPU 18 adds NLS ROOT CA certificate validation to protect vGPU authoriza
 
 - [vgpu-unlock-rs](https://github.com/mbilker/vgpu_unlock-rs)
 - [FastAPI-DLS](https://git.collinwebdesigns.de/oscar.krause/fastapi-dls)
-- [gridd-unlock-patcher](https://git.collinwebdesigns.de/oscar.krause/gridd-unlock-patcher)
+- [gridd-unlock-patcher](https://git.collinwebdesigns.de/vgpu/gridd-unlock-patcher)
+- [NVIDIA Local Trusted Store](https://git.collinwebdesigns.de/vgpu/nvlts)
 - [佛西云盘](https://alist.homelabproject.cc/foxipan)

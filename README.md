@@ -18,5 +18,6 @@ The driver files are copyrighted by NVIDIA, and the IDA project files and patche
 
 - [vgpu-unlock-rs](https://github.com/mbilker/vgpu_unlock-rs)
 - [FastAPI-DLS](https://git.collinwebdesigns.de/oscar.krause/fastapi-dls)
-- [gridd-unlock-patcher](https://git.collinwebdesigns.de/oscar.krause/gridd-unlock-patcher)
+- [gridd-unlock-patcher](https://git.collinwebdesigns.de/vgpu/gridd-unlock-patcher)
+- [NVIDIA Local Trusted Store](https://git.collinwebdesigns.de/vgpu/nvlts)
 - [Foxi Net Disk](https://alist.homelabproject.cc/foxipan)
