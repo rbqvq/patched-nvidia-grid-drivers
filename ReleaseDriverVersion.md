@@ -38,6 +38,12 @@ vGPU 18.5
 - Linux `570.195.03`
 - Windows `573.76`
 
+vGPU 18.6
+
+- Host `570.211.01`
+- Linux `570.211.01`
+- Windows `573.96`
+
 ## vGPU 19
 
 vGPU 19.0
